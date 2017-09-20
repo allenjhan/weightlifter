@@ -1,5 +1,4 @@
-# weightlifter
-OpenGL animator tool for a weightlifter (wireframe)
+# OpenGL animator tool for a weightlifter (wireframe)
 
 ## Program Features
 - [x] must be able to select pick any object (any part of the robot or the sport object);
