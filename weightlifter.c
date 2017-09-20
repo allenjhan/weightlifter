@@ -1,6 +1,5 @@
 /*
   Weightlifter, by Allen Han
-  SCU Spring 2016, COEN 290, Assignment 2
 
   [COMPLETE] must be able to select pick any object (any part of the robot or the sport object);
              must be able to rotate the selected object left or right (left rotation with left 
