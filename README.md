@@ -1,12 +1,12 @@
 # weightlifter
 OpenGL animator tool for a weightlifter (wireframe)
 
-##Program Features
-  [x] must be able to select pick any object (any part of the robot or the sport object);
-             must be able to rotate the selected object left or right (left rotation with left 
-             click and right rotation with right click, with the mouse)
-  [x] must be able to translate the selected object
-  [x] perform playback and record with the following pop-up menus or pre-defined keys
+## Program Features
+- [x] must be able to select pick any object (any part of the robot or the sport object);
+      must be able to rotate the selected object left or right (left rotation with left 
+      click and right rotation with right click, with the mouse)
+- [x] must be able to translate the selected object
+- [x] perform playback and record with the following pop-up menus or pre-defined keys
 
 ## Key inputs
      b - begin recording
